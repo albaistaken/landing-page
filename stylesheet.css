@@ -63,9 +63,20 @@ img {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
+    margin-bottom: 10px;
 }
 
 .textsection1 {
     font-size: 18px;
     color: #E5E7EB;
+    margin-bottom: 20px;
+}
+
+.buttonsection1 {
+    all: unset;
+    border-radius: 7px;
+    padding: 8px 27px;
+    background-color: #3882F6;
+    color: white;
+    font-weight: 600;
 }
