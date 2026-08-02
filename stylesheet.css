@@ -118,3 +118,28 @@ img.minioncards {
     border: 4px solid;
     border-color: #3882F6;
 }
+
+.section3 {
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotesection3 {
+    width: 780px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.authorsection3 {
+    font-size: 18px;
+    font-weight: 600;
+    width: 720px;
+    text-align: right;
+}
