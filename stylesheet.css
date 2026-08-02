@@ -182,3 +182,11 @@ img.minioncards {
     font-weight: 600;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: #ffffff;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
